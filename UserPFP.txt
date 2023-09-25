@@ -27,5 +27,6 @@ The template as it follows: userid, animated, static
 1026739955722108979 https://cdn.discordapp.com/attachments/1155907220840644618/1155907361437913179/ezgif.com-optimize.gif https://cdn.discordapp.com/attachments/1155907220840644618/1155907360766840932/ezgif.com-optimize_-_Copy.png
 824303677254533191 https://cdn.discordapp.com/attachments/1155907220840644618/1155907424625098782/TVhead.gif https://cdn.discordapp.com/attachments/1155907220840644618/1155907424239231057/ezgif.com-gif-to-apng.png
 892806973018501221 https://cdn.discordapp.com/attachments/1155907220840644618/1155907507764592700/giphy.gif https://cdn.discordapp.com/attachments/1155907220840644618/1155907507487776778/ezgif.com-apng-maker.png
+976743955427364906 https://cdn.discordapp.com/attachments/1155907220840644618/1155907543344873472/MOSHED-2023-9-25-6-56-59.gif https://cdn.discordapp.com/attachments/1155907220840644618/1155907543076454471/MOSHED-2023-9-25-6-57-7.jpg
 
 -
