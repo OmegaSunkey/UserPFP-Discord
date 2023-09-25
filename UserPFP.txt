@@ -18,5 +18,6 @@ The template as it follows: userid, animated, static
 422859995730935853 https://cdn.discordapp.com/attachments/1155296481801154712/1155714786567401603/ezgif.com-resize_2.gif https://cdn.discordapp.com/attachments/1155296481801154712/1155714786177327146/IMG_20230924_132341.jpg
 422897575528759346 https://cdn.discordapp.com/attachments/1155296481801154712/1155715513276698624/ezgif.com-resize_3.gif https://cdn.discordapp.com/attachments/1155296481801154712/1155715513931005952/Screenshot_2023-09-24-14-49-51-29_c0dc27f5c07cb0fb3541d6073dfd6932.jpg
 890373759041667162 https://cdn.discordapp.com/attachments/1155296481801154712/1155716373289386024/ezgif.com-resize_4.gif https://cdn.discordapp.com/attachments/1155296481801154712/1155716372865753179/SmartSelect_20230924-141642_Chrome.jpg
+436980224253624321 https://cdn.discordapp.com/attachments/1155296481801154712/1155716707021754388/ezgif.com-resize-1.gif https://cdn.discordapp.com/attachments/1155296481801154712/1155716706505859142/sodapdf-converted.jpg
 
 -
