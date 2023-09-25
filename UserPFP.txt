@@ -34,5 +34,6 @@ The template as it follows: userid, animated, static
 983903512947736636 https://cdn.discordapp.com/attachments/1155907220840644618/1155910411623870611/sonicexe-jumpscare.gif https://cdn.discordapp.com/attachments/1155907220840644618/1155910411284135946/sonicexe-jumpscare.png
 1076935694875885779 https://cdn.discordapp.com/attachments/1155907220840644618/1155912043728228362/yippee-happy.gif https://cdn.discordapp.com/attachments/1155907220840644618/1155912043405254706/Screenshot_20230718_213204_Google_resized.jpg
 1151976071206539304 https://cdn.discordapp.com/attachments/1155907220840644618/1155912590090829925/845a6cda0911613bbb69cc3e4ab248c6.gif https://cdn.discordapp.com/attachments/1155907220840644618/1155912589721747506/Screenshot_20230924_103059_Gallery.jpg
+1078100925274673273 https://cdn.discordapp.com/attachments/1155916493020737616/1155916583286345738/8b0f6b9de607ac2ff52c83dc044572cb.gif https://cdn.discordapp.com/attachments/1155916493020737616/1155916560670674974/Screenshot_20230925-135106.jpg
 
 -
