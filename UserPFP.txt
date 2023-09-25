@@ -24,5 +24,6 @@ The template as it follows: userid, animated, static
 785622273804861500 https://cdn.discordapp.com/attachments/1155907220840644618/1155907270169866260/giphy.gif https://cdn.discordapp.com/attachments/1155907220840644618/1155907270601883688/giphy.png
 1019858807943335937 https://cdn.discordapp.com/attachments/1155907220840644618/1155907295549608057/39-anime-dance-girl-usagif.gif https://cdn.discordapp.com/attachments/1155907220840644618/1155907295130173480/Screenshot_2023-09-25-13-35-06-59_7881fafcdc71e1a9c1af41720b8acaa1.jpg
 688077107498057935 https://cdn.discordapp.com/attachments/1155907220840644618/1155907329255030884/1643848645.henryjdoe_500x500.gif https://cdn.discordapp.com/attachments/1155907220840644618/1155907328604909678/1643848645.henryjdoe_500x500.png
+1026739955722108979 https://cdn.discordapp.com/attachments/1155907220840644618/1155907361437913179/ezgif.com-optimize.gif https://cdn.discordapp.com/attachments/1155907220840644618/1155907360766840932/ezgif.com-optimize_-_Copy.png
 
 -
