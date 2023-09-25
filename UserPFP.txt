@@ -16,5 +16,6 @@ The template as it follows: userid, animated, static
 499507718902644738 https://cdn.discordapp.com/attachments/1155296481801154712/1155713639689498694/giphy.gif https://cdn.discordapp.com/attachments/1155296481801154712/1155713640025038928/giphy.png
 772219281064460299 https://cdn.discordapp.com/attachments/1155296481801154712/1155714029277433977/hayley-williams-paramore.gif https://cdn.discordapp.com/attachments/1155296481801154712/1155714028958650438/8995e8e2dcccbf2beec54e5757890782.jpg
 422859995730935853 https://cdn.discordapp.com/attachments/1155296481801154712/1155714786567401603/ezgif.com-resize_2.gif https://cdn.discordapp.com/attachments/1155296481801154712/1155714786177327146/IMG_20230924_132341.jpg
+422897575528759346 https://cdn.discordapp.com/attachments/1155296481801154712/1155715513276698624/ezgif.com-resize_3.gif https://cdn.discordapp.com/attachments/1155296481801154712/1155715513931005952/Screenshot_2023-09-24-14-49-51-29_c0dc27f5c07cb0fb3541d6073dfd6932.jpg
 
 -
