@@ -38,5 +38,6 @@ The template as it follows: userid, animated, static
 520696144557506560 https://cdn.discordapp.com/attachments/1155296481801154712/1155718033906618459/20230924_101720.gif https://cdn.discordapp.com/attachments/1155296481801154712/1155718033445236786/IMG_20230924_101914.png
 965339683041214514 https://cdn.discordapp.com/attachments/1155907220840644618/1155939884700291203/my-hero-academia-izuku-midoriya.gif https://cdn.discordapp.com/attachments/1155907220840644618/1155939884398288976/images.jpg
 404719762933809152 https://cdn.discordapp.com/attachments/1155907220840644618/1155955005015216208/skm64cb2z6a81.gif https://cdn.discordapp.com/attachments/1155907220840644618/1155955005640155217/images_1.jpeg
+741704076387025007 https://cdn.discordapp.com/attachments/1155907220840644618/1155959007123607662/ezgif-1-bb3b21442e.gif https://cdn.discordapp.com/attachments/1155907220840644618/1155959007543050290/Vintro.._cat_window_city_night_rain_blue_realism_4k_HD_c81dd274-5eff-4835-b8d7-1adda2c408ba.png
 
 -
